@@ -1,6 +1,2 @@
-# TEMPORARY — blocks all crawlers while the site is on the test URL.
-# Before going live on the real domain, replace the contents of this file with:
-#   User-agent: *
-#   Allow: /
 User-agent: *
-Disallow: /
+Allow: /
